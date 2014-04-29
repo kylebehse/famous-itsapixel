@@ -7,11 +7,11 @@ Thumbs.db
 
 # Node Files #
 ##############
-node_modules
+# node_modules
 
 # Project Files #
 #################
-dist
+# dist
 .tmp
-app/lib
-.yo-rc.json
+# app/lib
+# .yo-rc.json

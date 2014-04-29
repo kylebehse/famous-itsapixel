@@ -1,0 +1,12 @@
+{
+  "generator-famous": {
+    "projectName": "Famous Test 1",
+    "projectDesc": "This is a Famous test project.",
+    "authorLogin": "kylebehse",
+    "author": {
+      "name": "Kyle Behse",
+      "email": "kyle.behse@gmail.com"
+    },
+    "noTinfoil": true
+  }
+}
